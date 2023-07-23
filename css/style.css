@@ -68,6 +68,7 @@ body{
     padding-top: 60px;
 }
 .site-img{
+    border: solid red;
 }
 .site-text{
     margin-left: 97px;
